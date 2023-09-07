@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryn!
 - 👀 I’m interested in growing my coding skills
-- 🌱 I’m currently learning RISC-V assembly code and PostgreSQL
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ... bnsbns200325@gmail.com
 
 <!---
