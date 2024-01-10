@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryn!
 - 👀 I’m interested in growing my coding skills
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently studying game development/design and programming languages
 - 📫 How to reach me ... bnsbns200325@gmail.com
 
 <!---
