@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryn!
 - 👀 I’m interested in growing my coding skills
-- 🌱 I’m currently studying game development/design, web applications, and programming languages
+- 🌱 I’m currently studying algorithms, advanced software engineering, and human-robot interaction
 - 📫 How to reach me ... bnsbns200325@gmail.com
 
 <!---
