@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryn!
 - 👀 I’m interested in growing my coding skills
-- 🌱 I’m currently studying algorithms, advanced software engineering, and human-robot interaction
+- 🌱 I’m currently studying algorithms and advanced software engineering
 - 📫 How to reach me ... bnsears25@gmail.com
 
 <!---
