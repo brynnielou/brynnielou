@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryn!
 - 👀 I’m interested in growing my coding skills
-- 🌱 I’m currently studying operating systems and machine learning
+- 🌱 I’m currently graduated & working in industry
 - 📫 How to reach me ... bnsears25@gmail.com
 
 <!---
